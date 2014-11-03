@@ -5,7 +5,7 @@ title: First Post
 
 今天北京天儿不错，我又翘班了……
 
-折腾了一下午，fork了minix的[极简blog](https://github.com/minixalpha/StrayBirds/tree/gh-pages)，对jekyll和[markdown](http://wowubuntu.com/markdown/basic.html)有了初步了解。
+折腾了一下午，fork了minix的[极简blog](https://github.com/minixalpha/StrayBirds/tree/gh-pages)，对jekyll和[markdown](http://wowubuntu.com/markdown/basic.html)（[ENG](http://daringfireball.net/projects/markdown/syntax)）有了初步了解。
 
 <br></br>
 
@@ -50,3 +50,5 @@ github建站的当前任务：
 * 兴宝的数据们
 * JAVA，没有project怎么学
 * LZ的博客
+
+看起来这也是每天都可以做做的事。
