@@ -12,6 +12,7 @@ title: First Post
 * [Xuewen Pan](http://www.winfirm.cn/)：评论、整体框架、站内搜索（不太好使的样纸）
 * [Github Rebase](http://rebase.github.io/)：project list
 * [陈俊的网](http://chenjun.com/)：菜单栏
+* [陈堰平](http://yanping.me/)：基于octopress
 * [其他](https://github.com/jekyll/jekyll/wiki/Sites)
 
 github建站的当前任务：
