@@ -25,4 +25,4 @@ github建站的当前任务：
 
 其他改进idea：
 
-* 直接edit
+* 直接edit：放在blog/主页上
