@@ -17,7 +17,6 @@ title: First Post
 * [陈堰平](http://yanping.me/)：基于octopress，究竟要不要用啊
 * [其他](https://github.com/jekyll/jekyll/wiki/Sites)
 
-<br></br>
 
 github建站的当前任务：
 
@@ -28,7 +27,6 @@ github建站的当前任务：
 * plugins 【2nd priority】
 * 整体框架 【2nd priority】
 
-<br></br>
 
 其他改进idea：
 
