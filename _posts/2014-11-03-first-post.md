@@ -7,6 +7,7 @@ title: First Post
 
 折腾了一下午，fork了minix的[极简blog](https://github.com/minixalpha/StrayBirds/tree/gh-pages)，对jekyll和[markdown](http://wowubuntu.com/markdown/basic.html)有了初步了解。
 
+<br></br>
 
 见了几个今后打算参照的github blog：
 
@@ -16,6 +17,7 @@ title: First Post
 * [陈堰平](http://yanping.me/)：基于octopress，究竟要不要用啊
 * [其他](https://github.com/jekyll/jekyll/wiki/Sites)
 
+<br></br>
 
 github建站的当前任务：
 
@@ -26,14 +28,14 @@ github建站的当前任务：
 * plugins 【2nd priority】
 * 整体框架 【2nd priority】
 
+<br></br>
 
 其他改进idea：
 
 * 直接edit：放在blog/主页上
 * 前一页、后一页
 
-
-*****
+<br></br>
 
 体验遗忘多年的沉浸和创造的快感。果真依赖老公太久就忘记独立了么？
 
@@ -41,7 +43,7 @@ github建站的当前任务：
 
 难道沉默的学习和创造才是？……我又能创造出点什么呢，哎。
 
-<br></br>     
+<br></br>
 
 给无聊的tomorrow找点事做：
 
