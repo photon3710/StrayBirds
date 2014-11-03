@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Java 中的并发
+title: Sample blog - Java 中的并发
 ---
 
 
