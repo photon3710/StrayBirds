@@ -5,7 +5,7 @@ title: First Post
 
 今天北京天儿不错，我又翘班了……
 
-fork了minix的[极简blog](https://github.com/minixalpha/StrayBirds/tree/gh-pages)，对jekyll和markdown有了初步了解。
+折腾了一下午，fork了minix的[极简blog](https://github.com/minixalpha/StrayBirds/tree/gh-pages)，对jekyll和markdown有了初步了解。
 
 见了几个今后打算参照的github blog：
 
@@ -22,3 +22,7 @@ github建站的当前任务：
 * 整体框架 【2nd priority】
 * 归档/分类/tag OR tag cloud
 * 前一页、后一页
+
+其他改进idea：
+
+* 直接edit
