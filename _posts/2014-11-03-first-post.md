@@ -7,6 +7,7 @@ title: First Post
 
 折腾了一下午，fork了minix的[极简blog](https://github.com/minixalpha/StrayBirds/tree/gh-pages)，对jekyll和[markdown](http://wowubuntu.com/markdown/basic.html)有了初步了解。
 
+
 见了几个今后打算参照的github blog：
 
 * [Xuewen Pan](http://www.winfirm.cn/)：评论、站内搜索（不太好使的样纸）
@@ -14,6 +15,7 @@ title: First Post
 * [陈俊](http://chenjun.com/)：菜单栏
 * [陈堰平](http://yanping.me/)：基于octopress，究竟要不要用啊
 * [其他](https://github.com/jekyll/jekyll/wiki/Sites)
+
 
 github建站的当前任务：
 
@@ -29,6 +31,7 @@ github建站的当前任务：
 
 * 直接edit：放在blog/主页上
 * 前一页、后一页
+
 
 体验遗忘多年的沉浸和创造的快感。果真依赖老公太久就忘记独立了么？
 
