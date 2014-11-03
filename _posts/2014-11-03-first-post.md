@@ -18,6 +18,7 @@ github建站的当前任务：
 
 * 代码高亮
 * 评论模块
+* Latex
 * plugins 【2nd priority】
 * 整体框架 【2nd priority】
 * 归档/分类/tag OR tag cloud
