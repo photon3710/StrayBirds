@@ -11,7 +11,7 @@ title: First Post
 
 * [Xuewen Pan](http://www.winfirm.cn/)：评论、站内搜索（不太好使的样纸）
 * [Github Rebase](http://rebase.github.io/)：project list
-* [陈俊的网](http://chenjun.com/)：菜单栏
+* [陈俊](http://chenjun.com/)：菜单栏
 * [陈堰平](http://yanping.me/)：基于octopress，要不要用啊
 * [其他](https://github.com/jekyll/jekyll/wiki/Sites)
 
@@ -19,12 +19,13 @@ github建站的当前任务：
 
 * 代码高亮
 * 评论模块
+* 归档/分类/tag OR tag cloud
 * LaTeX
 * plugins 【2nd priority】
 * 整体框架 【2nd priority】
-* 归档/分类/tag OR tag cloud
-* 前一页、后一页
+
 
 其他改进idea：
 
 * 直接edit：放在blog/主页上
+* 前一页、后一页
