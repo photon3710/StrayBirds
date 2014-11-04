@@ -244,10 +244,7 @@ pre {
   background: #a8e;
   color: #f8f8f2;
   margin: 0 -20px 20px;
-}
-
-pre {
-    white-space: pre-wrap;
+  white-space: pre-wrap;
 }
 
 code {
