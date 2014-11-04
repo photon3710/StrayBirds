@@ -27,5 +27,24 @@ The surface impedance yields the input impedance per unit area of total layers t
 </code></pre>
   
 <p>The british pound is worth 1.5 US\$ or $1.1 \euro$</p>
+
+<div style="width:300px; border: 1px solid blue; margin: 2em;">
+    
+    And here's some random HTML code:
+    <pre>
+-- if class slot unavailable, check super class
+  -- if applied to argument, pass it to the class method new        
+  setmetatable(class, {
+    __index = function(self,key) return self.super[key] end,
+    __call  = function(self,...) return self.new(self,unpack(arg)) end 
+  })
+
+  -- if instance method unavailable, check method slot in super class    
+  setmetatable(class.methods, {
+    __index = function(self,key) return class.super.methods[key] end
+  })
+  return class</pre>
+</div>
+
 </body>
 </html>
